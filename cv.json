@@ -1,0 +1,333 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Salvador Muñoz Jiménez",
+    "label": "System Administator",
+    "image": "/avatar.png",
+    "email": "salvamj.it@gmail.com",
+    "url": "https://www.gcxstudio.cn",
+    "summary": "Born in 2000.Passionate about computer networks and cybersecurity.",
+    "theme": "blue",
+    "location": {
+      "address": "Granada",
+      "city": " Granada",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "icon": "ri:github-fill",
+        "username": "cibersmunoz",
+        "url": "https://github.com/cibersmunoz"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "ri:linkedin-fill",
+        "username": "SalvadorMJ",
+        "url": "https://www.linkedin.com/in/salvadormj/"
+      }
+    ],
+    "beian": {
+      "mint": "赣ICP备2021005460号-1",
+      "police": "赣公网安备 36010302000349号"
+    }
+  },
+
+  "images": {
+    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "list": [
+      {
+        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
+        "alt": "Sunset in Nanchang",
+        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+      },
+      {
+        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
+        "alt": "My Cat",
+        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+      },
+      {
+        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
+        "alt": "Emoji",
+        "desc": "True, dude"
+      },
+      {
+        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
+        "alt": "Cat Kernel Crashed",
+        "desc": "Cat Kernel Crashed"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "IES Zaidín Vergeles",
+      "url": "",
+      "area": "Student",
+      "studyType": "Full-time student",
+      "startDate": "2021-09-15",
+      "endDate": "2023-12-18"
+    },
+    {
+      "institution": "C.D.P - Nuestra señora de las Mercedes",
+      "url": "",
+      "area": "Student",
+      "studyType": "Full-time student",
+      "startDate": "2024-09-16",
+      "endDate": "2025-05-30"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "System Administrator",
+      "date": "2023-12-18",
+      "url": "",
+      "issuer": "Ministry of Education"
+    },
+    {
+      "name": "PET English.",
+      "date": "2024-06-15",
+      "url": "",
+      "issuer": "Cambridge"
+    },
+    {
+      "name": "Cibersecurity",
+      "date": "2025-05-30",
+      "url": "",
+      "issuer": "C.D.P - Nuestra señora de las Mercedes"
+    }
+  ],
+  "work": [
+    {
+      "name": "Real-Time Innovations ",
+      "position": "IT Intern",
+      "location_type": "Presencial",
+      "location": "Granada, Spain",
+      "url": "https://www.rti.com/",
+      "startDate": "2023-10-00",
+      "endDate": "2023-12-18",
+      "summary": "First internship in a US company supporting the operations team in the IT department.",
+      "highlights": [
+        null
+      ],
+      "responsibilities": [
+        "Monitor, check and diagnose problems, provide computer assistance, support audio/video rooms, maintain inventory."
+      ],
+      "achievements": [
+        ""
+      ],
+      "skills": {
+        "LINUX": "simple-icons:linux",
+        "Python": "simple-icons:python",
+        "Docker": "simple-icons:docker",
+        "HTML": "simple-icons:html5",
+        "XML": "simple-icons:xml",
+        "PHP": "simple-icons:php",
+        "Node": "ri:nodejs-line",
+        "SQL": "simple-icons:mysql",
+        "GitHub": "mdi:github"
+        
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "icon": "ri:wordpress-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "PHP",
+        "Fullstack",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "simple-icons:php",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "icon": "simple-icons:nginx",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Web Server"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Cloudflare Edge Functions",
+      "icon": "simple-icons:cloudflare",
+      "level": "Expert",
+      "keywords": [
+        "Serverless",
+        "Edge Computing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Cibersecurity",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Salvador Muñoz Jiménez",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "HTTP Check",
+      "image": {
+        "url": "https://github.com/cibersmunoz/Python/blob/master/main.py",
+        "position": "container",
+        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+      },
+      "isActive": true,
+      "description": "An open code to check HTTP",
+      "highlights": [
+        "🎯 Privacy-friendly, no registration required, out-of-the-box",
+        "✨ Support saving passwords and retrieving email addresses",
+        "😄 Support multiple domain name suffixes",
+        "🚀 100% open source, fully based on Cloudflare."
+      ],
+      "url": "https://github.com/cibersmunoz/Python/blob/master/main.py",
+      "github": "https://github.com/cibersmunoz/Python/blob/master/main.py"
+    }
+  ]
+}
