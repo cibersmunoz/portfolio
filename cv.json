@@ -8,7 +8,7 @@
     "email": "salvamj.it@gmail.com",
     "url": "",
     "summary": "Born in 2000.Passionate about computer networks and cybersecurity.",
-    "theme": "blue",
+    "theme": "red",
     "location": {
       "city": "Granada",
       "countryCode": "ES",
@@ -60,7 +60,7 @@
     {
       "institution": "IES Zaidín Vergeles",
       "url": "",
-      "area": "Student",
+      "area": "System Administrator",
       "studyType": "Full-time student",
       "startDate": "2021-09-15",
       "endDate": "2023-12-18"
@@ -68,7 +68,7 @@
     {
       "institution": "C.D.P - Nuestra señora de las Mercedes",
       "url": "",
-      "area": "Student",
+      "area": "Cibersecurity Master",
       "studyType": "Full-time student",
       "startDate": "2024-09-16",
       "endDate": "2025-05-30"
