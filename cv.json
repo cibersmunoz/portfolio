@@ -10,7 +10,6 @@
     "summary": "Born in 2000.Passionate about computer networks and cybersecurity.",
     "theme": "blue",
     "location": {
-      "address": "Granada",
       "city": " Granada",
       "countryCode": "ES",
       "region": "España"
@@ -28,11 +27,7 @@
         "username": "SalvadorMJ",
         "url": "https://www.linkedin.com/in/salvadormj/"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
 
   "images": {
