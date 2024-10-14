@@ -76,22 +76,10 @@
   ],
   "certificates": [
     {
-      "name": "System Administrator",
-      "date": "2023-12-18",
-      "url": "",
-      "issuer": "Ministry of Education"
-    },
-    {
       "name": "PET English.",
       "date": "2024-06-15",
       "url": "",
       "issuer": "Cambridge"
-    },
-    {
-      "name": "Cibersecurity",
-      "date": "2025-05-30",
-      "url": "",
-      "issuer": "C.D.P - Nuestra señora de las Mercedes"
     }
   ],
   "work": [
