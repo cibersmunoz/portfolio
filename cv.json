@@ -126,8 +126,8 @@
         "XML": "simple-icons:xml",
         "PHP": "simple-icons:php",
         "Node": "ri:nodejs-line",
-        "SQL": "simple-icons:mysql",
-    }
+        "SQL": "simple-icons:mysql"
+    },
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
