@@ -306,6 +306,9 @@
       },
       "isActive": true,
       "description": "An open code to check HTTP",
+      "highlights":[
+      "Open-source, friendly"
+      ],
       "url": "https://github.com/cibersmunoz/Python/blob/master/main.py",
       "github": "https://github.com/cibersmunoz/Python/blob/master/main.py"
     }
