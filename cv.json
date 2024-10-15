@@ -103,11 +103,12 @@
         "Experience in network and server administration in a real environment, use of new technologies, and development of teamwork and communication skills in an international context. Improvement of technical English."
       ],
       "skills": {
+        "Windows": "simple-icons:windows",
         "LINUX": "simple-icons:linux",
         "Python": "simple-icons:python",
-
-        "GitHub": "mdi:github"
-        
+        "GitHub": "mdi:github", 
+        "Okta": "simple-icons:okta",
+         "Slack": "simple-icons:slack"
       }
     }
   ],
@@ -252,6 +253,37 @@
         "OS",
         "Scripting",
         "Automation"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Data Processing"
+      ]
+    },
+    {
+      "name": "PowerShell",
+      "icon": "simple-icons:powershell",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Windows Administration"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "icon": "simple-icons:jenkins",
+      "level": "Intermediate",
+      "keywords": [
+        "DevOps",
+        "Automation",
+        "Continuous Integration",
+        "Continuous Delivery"
       ]
     },
     {
