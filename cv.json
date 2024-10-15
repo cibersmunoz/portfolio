@@ -77,7 +77,7 @@
   ],
   "certificates": [
     {
-      "name": "PET English.",
+      "name": "PET English",
       "date": "2024-06-15",
       "url": "",
       "issuer": "Cambridge"
@@ -100,17 +100,12 @@
         "Monitor, check and diagnose problems, provide computer assistance, support audio/video rooms, maintain inventory."
       ],
       "achievements": [
-        ""
+        "Experience in network and server administration in a real environment, use of new technologies, and development of teamwork and communication skills in an international context. Improvement of technical English."
       ],
       "skills": {
         "LINUX": "simple-icons:linux",
         "Python": "simple-icons:python",
-        "Docker": "simple-icons:docker",
-        "HTML": "simple-icons:html5",
-        "XML": "simple-icons:xml",
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "SQL": "simple-icons:mysql",
+
         "GitHub": "mdi:github"
         
       }
@@ -126,6 +121,13 @@
         "Frontend"
       ]
     },
+    {
+        "HTML": "simple-icons:html5",
+        "XML": "simple-icons:xml",
+        "PHP": "simple-icons:php",
+        "Node": "ri:nodejs-line",
+        "SQL": "simple-icons:mysql",
+    }
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
@@ -304,12 +306,6 @@
       },
       "isActive": true,
       "description": "An open code to check HTTP",
-      "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
-      ],
       "url": "https://github.com/cibersmunoz/Python/blob/master/main.py",
       "github": "https://github.com/cibersmunoz/Python/blob/master/main.py"
     }
