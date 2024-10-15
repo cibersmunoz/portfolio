@@ -80,7 +80,7 @@
       "name": "PET English",
       "date": "2024-06-15",
       "url": "",
-      "issuer": "Cambridge"
+      "issuer": "Cambridge English"
     }
   ],
   "work": [
@@ -327,7 +327,7 @@
       "image": {
         "url": "https://github.com/cibersmunoz/Python/blob/master/main.py",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://cdn.pixabay.com/photo/2016/11/30/20/44/computer-1873831_960_720.png"
       },
       "isActive": true,
       "description": "An open code to check HTTP",
