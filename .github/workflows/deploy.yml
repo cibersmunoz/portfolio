@@ -1,6 +1,7 @@
+# CREA UN TOKEN LLAMADO NEOCITIES_API_TOKEN EN LA CONFIGURACION DE TU REPOSITORIO
+
 name: Deploy to neocities
 
-# only run on changes to main. Use main or master depending on whatever your default branch is called.
 on:
   push:
     branches:
@@ -16,20 +17,20 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    # Set up any tools and build steps here
-    # This example uses a Node.js toolchain to build a site
     - name: Use Node.js
       uses: actions/setup-node@v3
       with:
         node-version: lts/*
+    - name: Install pnpm
+      run: npm install -g pnpm
     - name: Install deps and build
       run: |
-        npm i
-        npm run build
+        pnpm install
+        pnpm build
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v2
       with:
-        api_token: ${{secrets.NEOCITIES_API_TOKEN}}
+        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
         cleanup: false
         dist_dir: dist
